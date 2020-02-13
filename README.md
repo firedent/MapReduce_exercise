@@ -1,4 +1,4 @@
-# A smaple MapReduce exercise
+# WordCount Application
 ## Problem Statement
 Given a set of text documents (i.e. text files) in input, create an index with the list of ngrams (e.g. bigrams) contained in these documents along with the number of times the ngrams were found across all documents and the list of files where the ngrams appear.
 
